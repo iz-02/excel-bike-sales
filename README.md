@@ -9,7 +9,7 @@ Cleaned the data, built pivot tables, and made an interactive dashboard with cha
 - Interactive dashboard with slicers  
 - Insights on demographics, income & commute distance  
 
-## 📂 Files[Excel Bike Sales Full Project.xlsx](https://github.com/user-attachments/files/22124811/Excel.Bike.Sales.Full.Project.xlsx)
+## 📂 Files
 
 - [Excel Bike Sales Full Project.xlsx](https://github.com/user-attachments/files/22124811/Excel.Bike.Sales.Full.Project.xlsx) – cleaned dataset + dashboard
 
